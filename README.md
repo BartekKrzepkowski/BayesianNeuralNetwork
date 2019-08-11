@@ -1,2 +1,2 @@
 # BayesianNeuralNetwork
-Repo gathering information and models about bayesian approach to neural networks
+Repo gathering information and models regarding the Bayesian approach to neural networks
